@@ -19,7 +19,7 @@
    在终端输入如下代码
    ```
    cd PATH(用户需要自己填写PATH这个保存路径)
-   git clone git@github.com:LiarGC/XREF.git
+   git clone https://github.com/PMIXRL/XFEL.git
    ```
    这样你就得到了我们的代码！
 3. 编译
@@ -39,10 +39,11 @@
    更改源代码请在 QT Creator 中进行
 
    使用 QT Creator 打开Source文件夹中的 XFEL.pro，后续操作请学习QT的使用方法
-5. 源代码的上传
+5. 更改代码的权限
 
    1. 请加入我们，使用你的注册邮箱给 2488680162@qq.com 发邮件，说明你想加入XFEL项目，并附带你的GitHub用户名
-   2. 
+   2. 我们同意邀请之后，会在GitHub上向你发出邀请，随后你会接受到邀请邮件，同意之后你就成功地加入了我们的项目！
+   3. 现在你获得了更改我们代码的权限，具体的上传代码的办法有点小复杂，还请自己搜索。。
 
 ### Windows用户（未完成）
 1. 准备
