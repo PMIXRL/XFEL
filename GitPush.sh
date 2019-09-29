@@ -1,6 +1,4 @@
 #!/bin/bash
 git add Source  README.md GitPush.sh make.sh
-git commit -m "LiarGC"
-#git remote rm origin
-#git remote add origin https://github.com/PMIXRL/XFEL.git
+git commit -m "Someone new"
 git push -u origin master
